@@ -1,50 +1,50 @@
-1, 2, 3, 4, 5, 6, 7, 8, 9 {
+b1, b2, b3, b4, b5, b6, b7, b8, b9 {
   font-size: 20px;
   color: white;
   border-width: 2px;
   transition: background-color 0.3s linear, color 0.3s linear;
 }
 
-1 {
+b1 {
   background-color: red;
 }
 
-2 {
+b2 {
   background-color: cyan;
 }
 
-3 {
+b3 {
   background-color: brown;
 }
 
-4 {
+b4 {
   background-color: black;
 }
 
-5 {
+b5 {
   background-color: orange;
 }
 
-6 {
+b6 {
   background-color: pink;
 }
 
-7 {
+b7 {
   background-color: blue;
 }
 
-8 {
+b8 {
   background-color: green;
 }
 
-9 {
+b9 {
   background-color: transparent;
   color: blue; /* Change the color for the link button */
   text-decoration: underline;
   cursor: pointer;
 }
 
-9:hover {
+b9:hover {
   color: green;
   background-color:yellow;
 }
